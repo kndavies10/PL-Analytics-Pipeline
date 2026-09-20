@@ -12,3 +12,8 @@ An automated Python pipeline that pulls Premier League match data from a public 
 - Automated data pipeline from football data.org API into PostgreSQL
 - SQL analysis: rolling team form, head-to-head records, manager-era performance splits (Pochettino vs. Maresca)
 - Interactive Power BI dashboard filterable by team, season, and manager
+
+
+## Dashboard Preview
+
+![PL Analytics Dashboard](dashboard_screenshot.png)
